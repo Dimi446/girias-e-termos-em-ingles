@@ -1,12 +1,12 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #3992ff;
-    --card-back-color: #3ecf65;
+    --card-front-color: #0050b3;
+    --card-back-color: #242424;
 }
 
 body {
     background: url('img/bg-doido.webp');
-    font-family: Bai Jamjuree;
+    font-family: Jaro;
 }
 
 #container {
